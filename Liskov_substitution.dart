@@ -13,7 +13,7 @@
 // }
 
 // class UploadVideo extends UploadFileService {
-//   void uploadImage() {
+//   void uploadVideo() {
 //     print('Video child class: upload video ...');
 //   }
 // }
